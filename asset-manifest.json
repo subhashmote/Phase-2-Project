@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NexusProjectThree/static/css/main.89dc7981.css",
+    "main.js": "/NexusProjectThree/static/js/main.5125341d.js",
+    "static/js/592.81fbfb10.chunk.js": "/NexusProjectThree/static/js/592.81fbfb10.chunk.js",
+    "static/media/Bg-2.png": "/NexusProjectThree/static/media/Bg-2.a1f8c471ace5ee369e1f.png",
+    "static/media/HD-Wallpaper.jpg": "/NexusProjectThree/static/media/HD-Wallpaper.5f7af7705f2e5f6ea01e.jpg",
+    "static/media/logo.svg": "/NexusProjectThree/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NexusProjectThree/index.html",
+    "main.89dc7981.css.map": "/NexusProjectThree/static/css/main.89dc7981.css.map",
+    "main.5125341d.js.map": "/NexusProjectThree/static/js/main.5125341d.js.map",
+    "592.81fbfb10.chunk.js.map": "/NexusProjectThree/static/js/592.81fbfb10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89dc7981.css",
+    "static/js/main.5125341d.js"
+  ]
+}
