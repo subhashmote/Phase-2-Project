@@ -50,7 +50,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between mt-3 h-[60px]'>
       <div className='ml-4'>
-        <h1 className='text-4xl font-bold hover:cursor-pointer'>NEXUS</h1>
+        <a href='https://subhashmote.github.io/NexusProjectThree'><h1 className='text-4xl font-bold hover:cursor-pointer'>NEXUS</h1></a>
       </div>
 
       <div>
